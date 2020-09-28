@@ -1,5 +1,4 @@
 package com.unittest.testing;
-
 public class Fahrengeit {
 	 private double celcius;
 	 public double getCelcius() {
@@ -28,6 +27,3 @@ public class Fahrengeit {
 		 return Math.round(celcius)+" celcius = "+Math.round(Fahrengeit)+" Fahrengeit";
 	 }
 }
-	 
-	 
-

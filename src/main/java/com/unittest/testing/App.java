@@ -13,6 +13,7 @@ public class App
         
         Fahrengeit f = new Fahrengeit();
         
+        
         while (!f.isBound(celcius)){
         	System.out.println("input Again!!!");
         	System.out.print("input Celcius : ");

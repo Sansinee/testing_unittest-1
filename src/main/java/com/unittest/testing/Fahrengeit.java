@@ -1,4 +1,5 @@
 package com.unittest.testing;
+
 public class Fahrengeit {
 	 private double celcius;
 	 private double fahrenheit;
@@ -29,6 +30,6 @@ public class Fahrengeit {
 //		 $number celcius = $number Fahrengeit
 		 double Fahrengeit = this.getFahrenheit();
 		 double celcius = this.getCelcius();
-		 return Math.round(celcius)+" celcius = "+Math.round(Fahrengeit)+" Fahrengeit";
+		 return Math.round(celcius)+" celcius is "+Math.round(Fahrengeit)+" Fahrengeit";
 	 }
 }
